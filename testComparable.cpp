@@ -5,7 +5,7 @@ Course/Project: CSC 402/502 Project 4 Test Driver
 Date: 01/01/1970
 */
 
-#pragma warning( disable: 4018 )
+#pragma warning( disable: 4018 )//for VS
 
 #include <string>
 #include <iostream>
@@ -138,7 +138,7 @@ int main()
 	as shown in the #else blocks
 
 	The typical error is:
-	testComparable.cpp:155 : 27 : error : conversion from ‘const char[6]’ to non - scalar type ‘Comparable<std::basic_string<char> >’ requested
+	testComparable.cpp:155 : 27 : error : conversion from â€˜const char[6]â€™ to non - scalar type â€˜Comparable<std::basic_string<char> >â€™ requested
 	Comparable<string> s1 = "Hello";
 	^
 	*/
