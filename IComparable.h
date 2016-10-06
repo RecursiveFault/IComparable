@@ -1,6 +1,4 @@
 /*
-I just kept all this information the same because you were the one who wrote it lol
-
 File Name: Icomparable.h
 Author: Tim McCord
 Course/Project: CSC 402/502 Spring 2015, Project3 possible solution
